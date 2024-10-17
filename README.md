@@ -1,4 +1,6 @@
-# 诗云-起个好名字
+# chinese name generator
+
+诗云-起个好名字
 
 > 在线预览: https://www.yaozeyuan.online/name-generator/
 
